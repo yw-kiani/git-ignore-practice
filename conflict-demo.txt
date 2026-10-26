@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Model = decision tree
-=======
-Model = random forest
->>>>>>> feature-conflict
+Model = baseline
