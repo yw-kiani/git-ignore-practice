@@ -1,1 +1,1 @@
-Model = random forest
+Model = decision tree
